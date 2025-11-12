@@ -276,6 +276,7 @@ font-weight: 400;
        }
     .my-recipies-card img{
         width: 100%;
+        height: 80%;
     }
     .my-recipies-cards-description{
         width: 100%;
